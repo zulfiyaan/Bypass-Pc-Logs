@@ -1,1 +1,11 @@
 # Bypass-Pc-Logs
+LastActivityView
+ExecutedProgramsList
+ShellBagsView
+OpenSaveFilesView
+UserAssistView
+AppCompatCache
+RecentApps
+AppCompatFlags
+JumpListsView
+RecentFilesView
